@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <title>showroom meubles de kelibia en 3D</title>
         <p>
-            Voici  l'activité de l'aviron à Zaghouène:<br>
+            virtual reality :<br>
             <img src="Photo meubles 3d.png" alt="Photo meubles 3d " />
             </p>
     </head>

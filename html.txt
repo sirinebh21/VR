@@ -1,14 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Showroom de Meubles en 3D</title>
-</head>
-<body>
-    <h1>virtual reality</h1>
-    
-    <!-- Add an image -->
-   <img src="C:\Users\GK-S\Desktop\3D\Photo meubles 3d.png" alt="Photo meubles 3d.png">
-</body>
+﻿<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <title>showroom meubles de kelibia en 3D</title>
+        <p>
+            Voici  l'activité de l'aviron à Zaghouène:<br>
+            <img src="Photo meubles 3d.png" alt="Photo meubles 3d " />
+            </p>
+    </head>
+    <body>
+    </body>
 </html>

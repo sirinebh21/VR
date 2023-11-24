@@ -9,6 +9,6 @@
     <h1>virtual reality</h1>
     
     <!-- Add an image -->
-   <img src="C:\Users\GK-S\Desktop\3D\Photo meubles 3d.png" alt="Photo meubles 3d">
+   <img src="C:\Users\GK-S\Desktop\3D\Photo meubles 3d.png" alt="Photo meubles 3d.png">
 </body>
 </html>
